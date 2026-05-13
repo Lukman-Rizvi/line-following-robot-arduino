@@ -2,7 +2,7 @@
 Autonomous line-following robot using Arduino Uno, IR sensors, and L298N motor driver.
 ## Robot Hardware
 
-![Robot](images/robot.jpeg)
+![Robot](images/robot_front_view.jpeg)
 
 ## Circuit Diagram
 
